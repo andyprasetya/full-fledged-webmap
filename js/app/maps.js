@@ -1118,13 +1118,12 @@ var maps = {
 				
 			});
 			/* ===================================== */
-			// var hash = new L.Hash(map);
 			map.on("overlayadd", function(e) {
-				
+				/* still do nothing */
 			});
 
 			map.on("overlayremove", function(e) {
-				
+				/* still do nothing */
 			});
 		})
 		.catch(function(errorconfig){
