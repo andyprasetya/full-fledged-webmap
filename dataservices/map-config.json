@@ -1,0 +1,14 @@
+{
+	"type": "MapConfiguration",
+	"properties": {
+		"minx": 107.52689453130005,
+		"miny": -9.47977159950005,
+		"maxx": 112.77095703130005,
+		"maxy": -4.70408625880005,
+		"centroidx": 109.903653000000005,
+		"centroidy": -7.359106000000005,
+		"minzoom": 9,
+		"maxzoom": 20,
+		"initzoom": 9
+	}
+}
