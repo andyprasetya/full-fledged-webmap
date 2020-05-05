@@ -2,7 +2,7 @@ define([
 	"jquery",
 	"bootstrap",
 	"datatables",
-	"dygraph","spin",
+	"spin",
 	"leaflet","controlloading","markercluster","layercontroltree","featuresubgroup","leafletdraw",
 	"underscore"
 ], function($) {
