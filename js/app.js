@@ -16,7 +16,6 @@ requirejs.config({
 			"./lib/bootstrap.bundle.min"
 		],
 		"datatables": "./lib/datatables/datatables.min",
-		"dygraph": "./lib/dygraphs/dygraph.min",
 		"leaflet": [
 			"https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet",
 			"./lib/leaflet"
